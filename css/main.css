@@ -14,10 +14,6 @@ body {
   font-family: "Noto Serif JP", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 
-header {
-  margin-bottom: 3em;
-}
-
 h1 {
   font-family: "Noto Serif JP";
   font-weight: 900;
@@ -28,63 +24,62 @@ h1 {
 
 h2 {
   font-family: "Montserrat";
-  font-weight: 500;
+  font-weight: 400;
+  margin: 0;
   font-size: 1.2em;
 }
 
 p {
   font-weight: 300;
-  margin-bottom: 2em;
 }
 
-.letter {
-  line-height: 2rem;
-  margin-bottom: 5em;
+.container {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 15rem;
 }
 
-.poem {
-  line-height: 1;
-  margin: 2em;
-  font-size: 0.6em;
+.content {
+  margin-bottom: 5rem;
 }
 
 a {
   text-decoration: none;
   color: #30274c;
+}
+
+.button {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 0.8em;
+  color: white;
+  background-color: #30274c;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+  box-shadow: 0px 5px 30px rgba(48, 39, 76, 0.2);
   transition: 0.1s linear;
 }
 
-a:hover {
-  color: #534874;
-}
-
-footer {
-  font-family: "Montserrat";
-  font-weight: 500;
-  margin: 0 auto;
-  text-align: center;
-  margin-bottom: 2em;
+.button:hover {
+  background-color: #534874;
 }
 
 @media screen and (min-width: 400px) {
-  header { 
+  header {
     margin-left: 2em;
-    margin-bottom: 5em; 
+    margin-bottom: 5em;
   }
-  
-  h1 { font-size: 2em; }
+
+  h1 { font-size: 2.5em; }
   h2 { font-size: 1.5em; }
   p { font-size: 1.2em; }
-  .letter { 
-    max-width: 75%;
-    margin: 0 auto;
-    margin-bottom: 5em;
-    line-height: 2.5em; 
-  }
-  .poem {
-    margin: 5em;
-    font-size: 0.8em;
-  }
+}
+
+@media screen and (min-width: 1200px) {
+  .container { margin-top: 30rem; }
 }
 
 @-webkit-keyframes AnimationName {
@@ -99,7 +94,7 @@ footer {
     100%{background-position:0% 50%}
 }
 
-@keyframes AnimationName { 
+@keyframes AnimationName {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
