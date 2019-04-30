@@ -1,0 +1,31 @@
+h1 { font-size: 1.8em; }
+h2 { font-weight: 500; }
+p { margin-bottom: 2em; }
+
+blockquote {
+  line-height: 2.2;
+  margin: 5em;
+  font-size: 0.6em;
+}
+
+.container {
+  line-height: 2rem;
+  margin-bottom: 5em;
+}
+
+@media screen and (min-width: 600px) {
+
+  h2 { font-size: 1.5em; }
+  p { font-size: 1.2em; }
+  blockquote {
+    margin: 4em;
+    font-size: 0.8em;
+  }
+
+  .container {
+    max-width: 75%;
+    margin: 0 auto;
+    margin-bottom: 5em;
+    line-height: 2.5;
+  }
+}

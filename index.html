@@ -1,58 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Laustrology</title>
-    <meta description="No-bullshit astrology">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: home
+title: Laustrology
+description: No-bullshit astrology
+---
 
-    <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Noto+Serif+JP:400,900" rel="stylesheet">
-
-    <!-- Social cards -->
-    <meta property="og:title" content="Laustrology">
-    <meta property="og:description" content="No-bullshit astrology">
-    <meta property="og:image" content="https://raw.githubusercontent.com/jilliangmeehan/laustrology/master/assets/social.jpg">
-    <meta property="og:url" content="https://laustrology.com">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Laustrology">
-    <meta name="twitter:description" content="No-bullshit astrology">
-    <meta name="twitter:image" content="https://raw.githubusercontent.com/jilliangmeehan/laustrology/master/assets/social.jpg">
-
-    <!-- Favicon -->
-    <link id="favicon" rel="icon" href="assets/favicon.ico" type="image/x-icon">
-
-    <!-- import the webpage's javascript file -->
-    <script src="/script.js" defer></script>
-  </head>
-  <body>
-    <div class="container">
-      <div class="content">
-        <h1>
-          Welcome to Laustrology
-        </h1>
-        <h2>
-          No-bullshit astrology
-        </h2>
-      </div>
-      <a class="button" href="/aries">CLICK TO ENTER</a>
-    </div>
-  </body>
-  <!-- Fathom - simple website analytics - https://usefathom.com -->
-<script>
-(function(f, a, t, h, o, m){
-a[h]=a[h]||function(){
-    (a[h].q=a[h].q||[]).push(arguments)
-};
-o=f.createElement('script'),
-m=f.getElementsByTagName('script')[0];
-o.async=1; o.src=t; o.id='fathom-script';
-m.parentNode.insertBefore(o,m)
-})(document, window, '//cdn.usefathom.com/tracker.js', 'fathom');
-fathom('set', 'siteId', 'MSCHEWKE');
-fathom('trackPageview');
-</script>
-<!-- / Fathom -->
-</html>
+<!-- Content -->
+<div class="container">
+  <div class="content">
+    <h1>Welcome to Laustrology</h1>
+    <h2>{{ page.description }}</h2>
+  </div>
+  <a class="button" href="/letters.html">CLICK TO ENTER</a>
+</div>
