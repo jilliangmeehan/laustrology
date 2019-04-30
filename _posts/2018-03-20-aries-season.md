@@ -3,6 +3,7 @@ layout: post
 title: Aries season
 excerpt_separator: <!--more-->
 tags: [aries]
+permalink: /aries/
 ---
 
 Today is the vernal equinox, when the sun enters Aries and we wash away the dead of winter. <!--more--> From here, there is more light than dark. From here, we allow ourselves to relearn how not to doubt ourselves. Most of us celebrate the beginning of a new year on January 1st, when all of humanity comes together to burn away the previous year’s heartache—but if there’s any one time of year that truly encapsulates our human need to take action, to be on the precipice of great change, to be born again from the ashes of our failures, it’s Aries season.
