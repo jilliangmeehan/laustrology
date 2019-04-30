@@ -1,0 +1,20 @@
+.container {
+  line-height: 2rem;
+  margin-bottom: 5em;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-weight: 500; }
+
+@media screen and (min-width: 600px) {
+
+  h2 { font-size: 1.5em; }
+  p { font-size: 1.2em; }
+
+  .container {
+    max-width: 75%;
+    margin: 0 auto;
+    margin-bottom: 5em;
+    line-height: 2.5em;
+  }
+}

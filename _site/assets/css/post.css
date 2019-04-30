@@ -1,0 +1,46 @@
+body { margin: 2em; color: #30274c; font-family: "Noto Serif JP", serif; }
+
+header { margin-bottom: 3em; }
+
+h1 { font-family: "Noto Serif JP", serif; font-weight: 900; font-size: 1.5em; margin: 0; line-height: 2; }
+
+h2 { font-family: "Montserrat", sans-serif; font-weight: 400; margin: 0; font-size: 1.2em; }
+
+p { font-weight: 300; }
+
+a { text-decoration: none; color: #30274c; transition: 0.1s linear; }
+a:hover { color: #534874; }
+a.button { font-family: "Montserrat", sans-serif; font-weight: 500; font-size: 0.8em; color: white; background-color: #30274c; padding-left: 30px; padding-right: 30px; padding-top: 15px; padding-bottom: 15px; border-radius: 30px; box-shadow: 0px 5px 30px rgba(48, 39, 76, 0.2); transition: 0.1s linear; }
+a.button:hover { background-color: #534874; }
+
+footer { font-family: "Montserrat", sans-serif; font-weight: 500; margin: 0 auto; text-align: center; margin-bottom: 2em; }
+
+@media screen and (min-width: 600px) { header { margin-left: 2em; margin-bottom: 5em; }
+  h1 { font-size: 2.5em; }
+  h2 { font-size: 1.5em; }
+  p { font-size: 1.2em; } }
+html { background: linear-gradient(270deg, #ddf5ff, #ffe4f6, #ffeade, #ebe7ff); background-size: 800% 800%; -webkit-animation: AnimationName 30s ease infinite; -moz-animation: AnimationName 30s ease infinite; animation: AnimationName 30s ease infinite; }
+
+@-webkit-keyframes AnimationName { 0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; } }
+@-moz-keyframes AnimationName { 0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; } }
+@keyframes AnimationName { 0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; } }
+h1 { font-size: 1.8em; }
+
+h2 { font-weight: 500; }
+
+p { margin-bottom: 2em; }
+
+blockquote { line-height: 2.2; margin: 5em; font-size: 0.6em; }
+
+.container { line-height: 2rem; margin-bottom: 5em; }
+
+@media screen and (min-width: 600px) { h2 { font-size: 1.5em; }
+  p { font-size: 1.2em; }
+  blockquote { margin: 4em; font-size: 0.8em; }
+  .container { max-width: 75%; margin: 0 auto; margin-bottom: 5em; line-height: 2.5; } }
