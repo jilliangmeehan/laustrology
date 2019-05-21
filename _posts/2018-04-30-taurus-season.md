@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Taurus season
-excerpt_separator: <!--more-->
-tags: [taurus]
-permalink: /taurus/
+date: 2018-04-30 00:00:00 Z
+permalink: "/taurus/"
+tags:
+- taurus
+layout: post
+excerpt_separator: "<!--more-->"
 ---
 
 April 20 was the start of slow and sensual Taurus season, when the thrill of Aries season gives way to boredom and introspection creeps in. <!--more--> If Aries season is about new beginnings, about re-learning and re-defining who you are, Taurus season is about finding parts of yourself that feel real and sustainable; when the identity pendulum stops swinging so far in opposite directions and slowly moves toward a natural center.

@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Gemini season
-excerpt_separator: <!--more-->
-tags: [gemini]
-permalink: /gemini/
+date: 2018-05-21 00:00:00 Z
+permalink: "/gemini/"
+tags:
+- gemini
+layout: post
+excerpt_separator: "<!--more-->"
 ---
 
 Today, the sun enters Gemini. Here we are: a season of mutability, of sparkling change. <!--more--> Now is the time to follow your curiosity where it leads you. Now is the time to allow your energy to shift and brighten and change its shape. You don’t have to feel stuck anywhere, not even here.
