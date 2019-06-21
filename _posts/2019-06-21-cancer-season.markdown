@@ -1,6 +1,7 @@
 ---
 title: Cancer Season
 date: 2019-06-21 11:15:00 Z
+permalink: "/cancer/"
 tags:
 - cancer
 excerpt_separator: "<!--more-->"
