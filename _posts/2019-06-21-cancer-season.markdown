@@ -2,12 +2,12 @@
 title: Cancer Season
 date: 2019-06-21 11:15:00 Z
 permalink: "/cancer/"
+published: false
 tags:
 - cancer
-excerpt_separator: "<!--more-->"
 ---
 
-Today is the summer solstice, when the sun enters Cancer and we begin a new phase in this year’s journey. <!--more--> Spring was for relearning self-awareness, reevaluating our needs and how we fit in. Summer is for integrating that newly rediscovered sense of self with our environment, which can be scary, because in order to successfully do so we need to share ourselves with others. And to share ourselves means risking rejection.
+Today is the summer solstice, when the sun enters Cancer and we begin a new phase in this year’s journey. Spring was for relearning self-awareness, reevaluating our needs and how we fit in. Summer is for integrating that newly rediscovered sense of self with our environment, which can be scary, because in order to successfully do so we need to share ourselves with others. And to share ourselves means risking rejection.
 
 Cancer season is one big lesson in growing up: moments of disappointment and losses of innocence which hopefully eventually feel empowering in that, well, if no one actually truly knows what they’re doing then that is all the more reason to trust yourself. In order to build an unshakeable personal foundation—a home within ourselves that we can come back to—we’re going to have to experience some level of trial and error. But all these risks come with the intention that maybe by the end of it we can find safety for ourselves. Maybe we can make safety for other people. That’s what Cancer ultimately seeks: an intrinsic knowledge that, no matter what, you have somewhere to go home to.
 
